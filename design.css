@@ -1,0 +1,47 @@
+
+body {
+  font-family: Bahnschrift SemiBold Condensed;
+  background-color:#ffdfb9;
+  margin: 30px;
+  padding: 5px;
+justify-content: center;
+gap: 15px;
+}
+nav a {
+  color: black;
+  text-decoration: none;
+  margin: 0 10px;
+border-radius: 10px;
+background-color:rgb(2,158,255);
+height: 60px;
+width: 100px;
+font-weight: bold;
+font-size: 15px;
+cursor: pointer;
+margin-left: 8px;
+margin-right: 4px;
+box-shadow: 10px 10px 10px green;
+padding: 10px
+}
+nav:hover{
+opacity: 0.7;
+
+}
+img {
+  margin-top: 15px;
+  border-radius: 30px;
+max-width:80%;
+height:auto;
+}
+h1,h2,h3,h4{
+font-family: algerian;
+color: green;
+ padding: 20px;}
+embed{
+margin-top: 15px
+border-radius: 15px;}
+b{
+color:rgb(0,100,200);}
+p{
+text-decoration:lowercase;
+color:black;}
