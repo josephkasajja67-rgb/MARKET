@@ -15,14 +15,14 @@ nav a {
 border-radius: 10px;
 background-color:rgb(2,158,255);
 height: 60px;
-width: 60px;
+width: 5px;
 font-weight: bold;
-font-size: 30px;
+font-size: 20px;
 cursor: pointer;
 margin-left: 8px;
 margin-right: 2px;
 box-shadow: 10px 10px 10px green;
-padding: 40px
+padding: 10px
 }
 nav:hover{
 opacity: 0.7;
@@ -46,6 +46,7 @@ color:rgb(0,100,200);}
 p{
 text-decoration:lowercase;
 color:black;}
+
 
 
 
