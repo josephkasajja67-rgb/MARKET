@@ -1,11 +1,12 @@
 
 body {
-  font-family: Bahnschrift SemiBold Condensed;
-  background-color:#ffdfb9;
-  margin: 30px;
-  padding: 5px;
+font-family: Bahnschrift SemiBold Condensed;
+background-color:#ffdfb9;
+margin: 30px;
+padding: 5px;
 justify-content: center;
 gap: 15px;
+font-size:3em;
 }
 nav a {
   color: black;
@@ -45,3 +46,4 @@ color:rgb(0,100,200);}
 p{
 text-decoration:lowercase;
 color:black;}
+
